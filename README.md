@@ -1,64 +1,39 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Praneesha;B.Tech+CSE+Student;Full+Stack+Developer;Python+%7C+React+%7C+Node.js;Always+Learning+and+/p>
 
-<!--
-**Praneesha-2006/Praneesha-2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Praneesha</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">
+B.Tech CSE Student | Software Developer | Tech Enthusiast
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Hi there 👋, I'm Praneesha
+---
 
-### B.Tech CSE Student | Aspiring Software Developer
+## 🚀 About Me
 
 - 🎓 B.Tech Computer Science Engineering at VR Siddhartha Engineering College (VRSEC)
-- 💻 Interested in Full Stack Development, AI, and Software Engineering
-- 🌱 Currently learning React.js, Node.js, MongoDB, and Advanced Python
-- 🏆 Certified in Python, Linux, CCNA, and C Programming
-- 🔬 Working on technical projects and research-oriented innovations
-- 📫 Reach me through GitHub discussions
+- 💻 Interested in Full Stack Development, Software Engineering and AI
+- 🌱 Currently learning React.js, Node.js, MongoDB and Advanced Python
+- 🔬 Working on innovative technical projects
+- 🏆 Certified in Python, Linux, CCNA and C Programming
+- 📚 Passionate about problem solving and continuous learning
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColorava](https://img.shields.io/badge/Java-EDle=for-the-badge&logo=openjdk&logoColor=white
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logogoColor=black
 
-### Web Development
+![Python](httpselds.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+![Java](https://img.shields./Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
+![JavaScript](https://img.shields.io/badge/Javastyle=for-the-badge&logo=javascript&logoColor=black
+
+### Frontend
+
 ![React](https://img.shields.io/badge/React-20232Ar-the-badge&logo=react&logoColor=61DAFB
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs=white
-![Express](https://img.shields.io/badge/Express.js-000000?style=ge
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=goColor=white
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logoogoColor=white
 
-### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-47for-the-badge&logo=mongodb&logoColor=white
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+### Backend
 
-📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/neesha-2006&show_icons=true&theme=tokyonight
-
-![Top Languages](https://github-readme-stats.vercels/?username=Praneesha-2006&layout=compact&theme=tokyonight
-
----
-
-## 🚀 Current Focus
-
-- Full Stack Development
-- AI & Machine Learning
-- Open Source Contributions
-- Patent and Research Projects
-
----
-
-## 🤝 Connect With Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-e=for-the-badge&logo=github](https://github.com/Praneesha-2006)
+![NodeJS](https://img.shields.io/badge/Node
